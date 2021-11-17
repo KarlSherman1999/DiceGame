@@ -1,0 +1,27 @@
+#image{
+    height: 10%;
+    width: 10%;
+}
+
+body{
+    background-image: url("images/background.png");
+    text-align: center;
+    font-size: 50px;
+    background-size: 100%;
+    color:purple;
+    -webkit-text-stroke: 1px black;
+}
+
+.invis{
+    display: none;
+}
+
+button{
+    background-color: red;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+}
